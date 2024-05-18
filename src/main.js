@@ -56,6 +56,7 @@ const configLinks = () => {
   })
 }
 
+if(!config.general['template-annotation']) document.querySelector('.template-annotation').remove()
 document.title = config.general['tab-title']
 configProfile()
 configLinks()

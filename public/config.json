@@ -1,6 +1,7 @@
 {
   "general": {
-    "tab-title": "Personal web template"
+    "tab-title": "Personal web template",
+    "template-annotation": true
   },
   "profile": {
     "title": "Felipe Mariño",
