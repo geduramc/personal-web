@@ -1,4 +1,12 @@
 {
+  "general": {
+    "tab-title": "Personal web template"
+  },
+  "profile": {
+    "title": "Felipe Mariño",
+    "subtitle": "Ingeniero de Sistemas",
+    "photo": "https://res.cloudinary.com/geduramc/image/upload/s--JZga_vDc--/v1716003537/geduramc/geduramc.png"
+  },
   "links": [
     {
       "text": "Agendar cita",
