@@ -1,6 +1,4 @@
 import './assets/style.css'
-import './assets/bootstrap/css/bootstrap.min.css'
-import './assets/bootstrap/js/bootstrap.min.js'
 import * as config from '../public/config.json'
 
 config.links.forEach(item => {
