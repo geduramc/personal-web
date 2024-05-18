@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://geduramc.com">🔗 Demo</a>
+  <a href="[https://geduramc.com](https://happy-hill-0cf14a50f.5.azurestaticapps.net/)">🔗 Demo</a>
 </p>
 
 <p style="margin-top:4rem">
