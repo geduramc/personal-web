@@ -28,7 +28,7 @@
 
 body {
   height: 100vh;
-  background-image: linear-gradient(to right top, #57a6a1, #539ea0, #52969e, #528e9b, #548696, #517e90, #4f778a, #4d6f83, #46667b, #405d74, #3a556c, #344c64);
+  background-image: linear-gradient(to right top, #003c43, #034249, #064850, #0a4f56, #0e555d, #1a5e65, #25686e, #2f7176, #418083, #539090, #65a09d, #77b0aa);
   overflow-y: hidden;
 }
 
