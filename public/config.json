@@ -1,0 +1,28 @@
+{
+  "links": [
+    {
+      "text": "Agendar cita",
+      "icon": "./calendar.svg",
+      "url": "#agenda",
+      "enabled": false
+    },
+    {
+      "text": "Whatsapp",
+      "icon": "./whatsapp.svg",
+      "url": "#whatsapp",
+      "enabled": true
+    },
+    {
+      "text": "Linkedin",
+      "icon": "./linkedin.svg",
+      "url": "#linkedin",
+      "enabled": true
+    },
+    {
+      "text": "Instagram",
+      "icon": "./instagram.svg",
+      "url": "#instagram",
+      "enabled": true
+    }
+  ]
+}
