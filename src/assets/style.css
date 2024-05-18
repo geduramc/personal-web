@@ -53,6 +53,7 @@ a {
 }
 
 .link-button {
+  background-color: #FFFFFF13;
   border: solid .1rem #FFFFFFDE;
   border-radius: 30px;
   padding: 16px;
@@ -102,5 +103,5 @@ a {
 .link-button.disable {
   pointer-events: none;
   cursor: default;
-  opacity: .5;
+  opacity: .3;
 }
