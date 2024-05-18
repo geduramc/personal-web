@@ -9,19 +9,19 @@
     {
       "text": "Whatsapp",
       "icon": "./whatsapp.svg",
-      "url": "#whatsapp",
+      "url": "https://wa.link/n8rqnx",
       "enabled": true
     },
     {
       "text": "Linkedin",
       "icon": "./linkedin.svg",
-      "url": "#linkedin",
+      "url": "https://www.linkedin.com/in/maria-camila-mari%C3%B1o-carre%C3%B1o-039b57121",
       "enabled": true
     },
     {
       "text": "Instagram",
       "icon": "./instagram.svg",
-      "url": "#instagram",
+      "url": "https://www.instagram.com/abg.camila/?hl=es",
       "enabled": true
     }
   ]
