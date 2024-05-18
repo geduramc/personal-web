@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://happy-hill-0cf14a50f.5.azurestaticapps.net">🔗 Demo</a>
+  <a href="https://happy-hill-0cf14a50f.5.azurestaticapps.net" target="_blank">🔗 Demo</a>
 </p>
 
 <p style="margin-top:4rem">
