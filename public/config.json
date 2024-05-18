@@ -1,12 +1,12 @@
 {
   "general": {
-    "tab-title": "Personal web template",
-    "template-annotation": true
+    "tab-title": "Abogada Camila Mariño",
+    "template-annotation": false
   },
   "profile": {
-    "title": "Felipe Mariño",
-    "subtitle": "Ingeniero de Sistemas",
-    "photo": "https://res.cloudinary.com/geduramc/image/upload/s--JZga_vDc--/v1716003537/geduramc/geduramc.png"
+    "title": "Camila Mariño",
+    "subtitle": "Soluciones legales para tus desafíos laborales",
+    "photo": "https://res.cloudinary.com/geduramc/image/upload/s--KsEY0d0w--/v1716046356/geduramc/profile-camila-marino.jpg"
   },
   "links": [
     {
@@ -18,19 +18,19 @@
     {
       "text": "Whatsapp",
       "icon": "./whatsapp.svg",
-      "url": "#whatsapp",
+      "url": "https://wa.link/n8rqnx",
       "enabled": true
     },
     {
       "text": "Linkedin",
       "icon": "./linkedin.svg",
-      "url": "#linkedin",
+      "url": "https://www.linkedin.com/in/maria-camila-mari%C3%B1o-carre%C3%B1o-039b57121",
       "enabled": true
     },
     {
       "text": "Instagram",
       "icon": "./instagram.svg",
-      "url": "#instagram",
+      "url": "https://www.instagram.com/abg.camila/?hl=es",
       "enabled": true
     }
   ]
