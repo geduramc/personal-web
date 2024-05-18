@@ -1,0 +1,107 @@
+* {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #FFFFFFDE !important;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media only screen and (min-width: 600px) {
+  #app {
+    margin: 6% 35%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #app {
+    margin: 10%;
+  }
+}
+
+body {
+  height: 100vh;
+  background-image: linear-gradient(to right top, #57a6a1, #539ea0, #52969e, #528e9b, #548696, #517e90, #4f778a, #4d6f83, #46667b, #405d74, #3a556c, #344c64);
+  overflow-y: hidden;
+}
+
+h1 {
+  font-size: 22px !important;
+}
+
+h2 {
+  font-size: 18px !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.profile {
+  height: 120px;
+  border-radius: 50%;
+  margin-bottom: .5rem;
+}
+
+.profile-content {
+  margin-bottom: 3rem;
+}
+
+.link-button {
+  background-color: #FFFFFF13;
+  border: solid .1rem #FFFFFFDE;
+  border-radius: 30px;
+  padding: 16px;
+  cursor: pointer;
+  margin-bottom: 1rem;
+
+  display: grid;
+  grid-template-columns: 10% 80% 10%;
+  justify-items: center;
+  align-items: center;
+}
+
+.link-button:hover {
+  opacity: 0.8;
+}
+
+.link-button:active {
+  opacity: 0.6;
+}
+
+.link-button > img {
+  height: 40px;
+}
+
+.link-button > span {
+  font-size: 20px;
+}
+
+.footer {
+  font-size: 12px;
+  margin-top: 3rem !important;
+  opacity: .5;
+}
+
+.footer > a:hover {
+  text-decoration: underline !important;
+}
+
+.template-annotation {
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+  background-color: #344c64;
+  padding: .6rem;
+}
+
+.link-button.disable {
+  pointer-events: none;
+  cursor: default;
+  opacity: .3;
+}
