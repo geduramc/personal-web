@@ -15,18 +15,22 @@
 }
 
 @media only screen and (min-width: 600px) {
-  #app {
-    margin: 6% 35%;
+  body {
+    margin-left: 35%;
+    margin-right: 35%;
   }
 }
 
 @media only screen and (max-width: 600px) {
-  #app {
-    margin: 10%;
+  body {
+    margin-left: 10%;
+    margin-right: 10%;
   }
 }
 
 body {
+  height: 100vh;
+  padding-top: 60px;
   overflow-x: hidden;
   background-image: linear-gradient(to right top, #57a6a1, #539ea0, #52969e, #528e9b, #548696, #517e90, #4f778a, #4d6f83, #46667b, #405d74, #3a556c, #344c64);
 }
@@ -106,3 +110,34 @@ a {
   cursor: default;
   opacity: .3;
 }
+
+/* scroll */
+/* tamaño del scroll */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* estilos barra (thumb) de scroll */
+::-webkit-scrollbar-thumb {
+  background: #939393;
+}
+
+::-webkit-scrollbar-thumb:active {
+  background-color: #999999;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #919191;
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+/* estilos track de scroll */
+::-webkit-scrollbar-track {
+  background: #d5d5d5;
+}
+
+::-webkit-scrollbar-track:hover,
+::-webkit-scrollbar-track:active {
+  background: #d5d5d5;
+}
+/* scroll */
